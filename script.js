@@ -930,7 +930,7 @@ function getConversation(name) {
                             ]
                         },
                             buddy: {
-                                conversation: `PROJECT: BUDDY is a brand new therapy simulation experience created by Pygmalion & Co., the world's leading organisation on mental health.`,
+                                conversation: `PROJECT: BUDDY is a brand new therapy simulation experience created by Pygmalion & Co., a leading organisation in the field of mental health.`,
                                 choices: [
                                     {
                                         choice: "WHAT ARE YOU",
